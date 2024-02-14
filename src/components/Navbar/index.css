@@ -1,0 +1,23 @@
+
+.navbar{
+    background-color: #00AB7F;
+    left: 280px;
+    width: calc(100vw - 340px);
+    margin: auto;
+    height: 80px;
+    height: 10vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.navbar-text{
+    font-size: 18px;
+
+}
+
+.navbar-children-outlet{
+    top: 120px;
+    width: calc(100vw - 360px);
+    left: 320px;
+    height: 100vh;
+}

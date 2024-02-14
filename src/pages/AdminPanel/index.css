@@ -1,0 +1,28 @@
+.admin-left-navbar{
+  background-color: #00AB7F;
+  width: 280px !important;
+  height: 100vh;
+  overflow-y: auto;
+  position: fixed;
+
+}
+
+.admin-left-navbar-children{
+  text-decoration: none;
+  color: white;
+
+}
+
+.admin-left-navbar-children.active{
+    background-color: #047DCE;
+
+}
+
+.admin-panel-text{
+    font-size: 1.5rem;
+}
+
+ 
+
+ 
+ 
